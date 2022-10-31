@@ -207,8 +207,8 @@ body {
        font-size: 20px;
            color: rgb #ffffff;
        position: absolute;
-       top: 159px;
-       right: 1050px;
+       top: 161px;
+       right: 306px;
    }
    .copaserv .listeners:before {
        content:url();
@@ -255,9 +255,9 @@ body {
   }
   .copaserv .icons-right-serv {
     text-align: left;
-    position: absolute;
-    bottom: 355px;
-    right: -50px;
+    position: fixed;
+    bottom: 288px;
+    right: -822px;
     z-index: 11;
   }
   .copaserv .icons-left {
@@ -275,7 +275,7 @@ body {
     font-size: 24px;
     color: rgba(112, 0, 112, 1);
     text-align: center;
-    margin-left: -1144px;
+    margin-left: -1226px;
     margin-bottom: -1500px;
     margin-top: 83px;
     cursor: pointer;
@@ -312,8 +312,8 @@ body {
    }
    .copaserv .volume-slider {
        position: absolute;
-       bottom: 244px;
-       right: 971px;
+       bottom: 140px;
+       right: 200px;
        display: auto;
        z-index: 10;
    }
