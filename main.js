@@ -64,7 +64,7 @@ document.write("" + textosemana[diasemana] + " " + diames + " de " + textomes[me
 	$.fn.icast = function (options) {
         var settings = $.extend({
             // Default Settings
-            URL: "https://cloudstream2034.conectarhosting.com:7033",
+            URL: "https://ssl.kenhost.ro:8036",
 			version: "2",
             stream_id: 1,
 			mount_point: "", 
@@ -570,7 +570,7 @@ document.write("" + textosemana[diasemana] + " " + diames + " de " + textomes[me
 
 })(jQuery);
     $("#stream1").icast({
-	    URL: "https://cloudstream2034.conectarhosting.com:7033",
+	    URL: "https://ssl.kenhost.ro:8036",
 		version: "2",
        })
 	
